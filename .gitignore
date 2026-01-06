@@ -1,6 +1,8 @@
 # Ignore the contents of the _site directory and other cache directories
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 # Ignore the directory for local files during development
 local/
@@ -11,6 +13,7 @@ Gemfile.lock
 # Ignore files created by npm
 node_modules
 package-lock.json
+*.gem
 
 # Ignore the vendor file at root level and bundle for alternative installation
 /vendor/
@@ -18,6 +21,42 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
 
 # Ignore files created by MacOS
 .DS_Store
+Thumbs.db
+
+# logger
+*.log
+
+# temp files
+tmp/
+.tmp/
+
+# Node modules (npm)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# drafts
+_drafts/
+
+# docker
+_config_docker.yml
+docker-compose.yaml
+Dockerfile
+
+package.json
+
+
+
+README.md
+LICENSE
+CONTRIBUTING.md
