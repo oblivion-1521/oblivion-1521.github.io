@@ -34,10 +34,14 @@ Skills
 
 Currently working on 
 =========
-- As a first author, finalizing a manuscript on the use of PET monitoring proton therapy for submission to a periodical.
 - Developing foundational knowledge in Parallel Computer Architecture and Programming ([CMU15-418](https://www.cs.cmu.edu/afs/cs/academic/class/15418-s18/www/schedule.html)).
 - learning [data structures](https://labuladong.online/algo/intro/quick-learning-plan/). 
 
+
+Latest Updates
+=========
+- **2026.01** Periodical paper "Washout-Based PET/CT Registration for Non-Integrated In-Beam PET in Proton Therapy Monitoring: Feasibility Study in Murine Models" submitted to JNM. 
+- **2025.12** Patent "图像配准方法、装置、计算机设备、存储介质及程序产品" submitted. Application number: 2025119894555. 
 
 Education
 =========
