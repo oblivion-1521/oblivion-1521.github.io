@@ -16,22 +16,29 @@ About me
 I am Jiajie Li, a sophomore in Biomedical Engineering ([Qiming College](https://qiming.hust.edu.cn/)) at HUST. 
 My undergraduate focus remained on mastering technical skills and research, which took precedence over extracurricular administration.
 
-My current research focuses on **Positron Emission Tomography (PET)**, specifically in image reconstruction, registration algorithms and its applications in proton therapy monitoring. I'm a quick, clever, and resilient  learner, fueled by strong logic and creative problem-solving. 
+My current research focuses on **Human Computer Interaction (HCI) for Biosignal Processing**, specifically in the integtation of LLMs after sEMG signal processing. I'm a quick, clever, and resilient learner, fueled by strong logic and creative problem-solving. 
 
-I enjoy playing Texas Hold'em, guitar, and table tennis. I love chatting with people. 
+I enjoy playing Texas Hold'em and table tennis. I love negotiating and chatting with people. 
 
 
 Skills
 =========
-- Programming: 
-  - mainly C++
-  - use Python, Matlab, Shell scripting occasionally.
+- Deep Learning [(CMU 11-785)](https://deeplearning.cs.cmu.edu/S26/index.html)
+  - CNN, LSTM, Transformer, Diffusion, GAN, RL. 
+  - WandB
+- Parallel Computer Architecture and Programming [(CMU 15-418)](https://www.cs.cmu.edu/afs/cs/academic/class/15418-s18/www/schedule.html)
+- Languages: 
+  - mainly Python, C++. 
+  - HTML5 Canvas for front-end UI demonstration. 
+  - use Matlab, Shell scripting occasionally. Understands the basics of Makefile and CMake. 
 - Other tools: 
   - LaTeX
   - Vim
-  - I'm familiar with the Linux operating system, and I use Git and Github for version control. 
+  - wsl & virtual machines
+  - Adobe Illustrator
+  - I'm familiar with the Linux operating system and computer hardware, and I use Git and Github for version control. 
 
-
+<!-- 
 Currently working on 
 =========
 - Developing foundational knowledge in Parallel Computer Architecture and Programming ([CMU15-418](https://www.cs.cmu.edu/afs/cs/academic/class/15418-s18/www/schedule.html)).
@@ -40,8 +47,7 @@ Currently working on
 
 Latest Updates
 =========
-- **2026.01** Periodical paper "Washout-Based PET/CT Registration for Non-Integrated In-Beam PET in Proton Therapy Monitoring: Feasibility Study in Murine Models" submitted to JNM. 
-- **2025.12** Patent "图像配准方法、装置、计算机设备、存储介质及程序产品" submitted. Application number: 2025119894555. 
+- **2025.12** Patent "图像配准方法、装置、计算机设备、存储介质及程序产品" submitted. Application number: 2025119894555.  -->
 
 Education
 =========
