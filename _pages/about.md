@@ -13,30 +13,32 @@ redirect_from:
 
 About me
 =========
-I am Jiajie Li, a sophomore in Biomedical Engineering ([Qiming College](https://qiming.hust.edu.cn/)) at HUST. 
+I am Jiajie Li, a Junior in Biomedical Engineering ([Qiming College](https://qiming.hust.edu.cn/)) at HUST. 
 My undergraduate focus remained on mastering technical skills and research, which took precedence over extracurricular administration.
 
-My current research focuses on **Human Computer Interaction (HCI) for Biosignal Processing**, specifically in the integtation of LLMs after sEMG signal processing. I'm a quick, clever, and resilient learner, fueled by strong logic and creative problem-solving. 
+My current research focuses on Deep Learning (DL) and Large Language Model (LLM), specifically in applying advanced Deep Learning and calibration techniques to biomedical signal processing of sEMG and fMG to support Silent Speech Recognition (SSR), and LLM Persistent Unlearning Across Model Evolution.  
+I'm a quick, clever, and resilient learner, fueled by highly integrated AI workflow, strong logic and creative problem-solving. 
 
-I enjoy playing Texas Hold'em and table tennis. I love negotiating and chatting with people. 
+I enjoy playing Texas Hold'em and table tennis. I love negotiating and having conversations with people. But I'm terrible at chit-chat. 
 
 
 Skills
 =========
 - Deep Learning [(CMU 11-785)](https://deeplearning.cs.cmu.edu/S26/index.html)
   - CNN, LSTM, Transformer, Diffusion, GAN, RL. 
-  - WandB
+  - WandB hyperparamter sweeping. 
 - Parallel Computer Architecture and Programming [(CMU 15-418)](https://www.cs.cmu.edu/afs/cs/academic/class/15418-s18/www/schedule.html)
 - Languages: 
   - mainly Python, C++. 
   - HTML5 Canvas for front-end UI demonstration. 
   - use Matlab, Shell scripting occasionally. Understands the basics of Makefile and CMake. 
 - Other tools: 
+  - claude code & codex CLI
   - LaTeX
-  - Vim
+  - VIM
   - wsl & virtual machines
   - Adobe Illustrator
-  - I'm familiar with the Linux operating system and computer hardware, and I use Git and Github for version control. 
+  - I'm familiar with the Linux operating system and computer hardware, I prefer using CLI, and I use Git and Github for version control and team collaboration. 
 
 <!-- 
 Currently working on 
